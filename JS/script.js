@@ -119,7 +119,6 @@ sumValue.addEventListener ('input', function(){
    }
 });
 
-
 percentValue.addEventListener ('input', function(){
    if (appData.savings == true) {
        let sum = +sumValue.value,
@@ -131,7 +130,6 @@ percentValue.addEventListener ('input', function(){
    }
 });
 
-
 let appData = {
     budget: money,
     expenses: {},
@@ -140,27 +138,3 @@ let appData = {
     timeData: time,
     savings: false
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
