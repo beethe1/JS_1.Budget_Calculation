@@ -3,7 +3,7 @@
 This site is published at  [https://hys25.github.io/JS_Project_1.Budget_Calculation/](https://hys25.github.io/JS_Project_1.Budget_Calculation/)
 > JavaScript training
 
-This is my first project written on **JavaScript**. Also on this project I learned how to work with **SASS preprocessor**. 
+This is my first project written on **JavaScript**. Also on this project I learned how to work with **SASS preprocessor**. The site is **adaptive** for mobile phone, tablet and desktop.
 
 In order to **start the calculation** you should press the "Начать расчет" button.
 - enter the date in the required type YYYY-MM-DD;
